@@ -51,4 +51,4 @@
 
 ---
 
-[Link To Wireframe Prototype](https://wireframe.cc/pro/pp/8b77245f0576355)
+[Wireframe Prototype](https://wireframe.cc/pro/pp/8b77245f0576355)
